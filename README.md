@@ -45,14 +45,20 @@ Edit a Contact: Click the "Edit" button on a contact to update their information
 
 Delete a Contact: Click the "Delete" button to remove a contact from the list.
 
-Example
+## Example
 When you open the app:
 
 You can view a list of all added contacts.
+
 A form is available to add new contacts by providing their name, phone number, and email.
+
 Each contact in the list will have buttons to edit or delete the contact.
-Dependencies
+
+## Dependencies
+
 React: Frontend framework for building the UI.
+
 CSS or Styled Components: For styling the app.
+
 React Icons: (Optional) For adding icons to the buttons or form fields.
 
